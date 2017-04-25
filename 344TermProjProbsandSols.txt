@@ -1,0 +1,9 @@
+Initially, we had a little bit of trouble coming up with an idea the first week and a half after we got assigned to our groups.
+We each had our own ideas, but none of us were really satisfied with them/aware of how to incorporate them into a full stack application.
+This was solved when Nathan K. let us know about his work in Astronomy and came up with the idea to have
+a space tourism website from which potential customers could view information about different astronomical destinations
+and book a flight for said destinations.
+
+Once we had separated duties between the team members, we eventually ran across an issue where we could not get customer
+information to post to the database. It would create an object with the information, but would not add it to the Mongo
+database. This was solved when we had the professor look over it with us.
